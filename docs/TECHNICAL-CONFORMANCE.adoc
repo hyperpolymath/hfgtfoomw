@@ -123,7 +123,7 @@ all, and which belong to the window the app owns — is decided in
 link:../decisions/0005-window-mechanism.adoc[ADR-0005].
 
 A row moves off `unverified` only when an observation is attached. The procedure
-is link:../acceptance/RUN-SHEET.adoc[the acceptance run sheet]; the page it is
+is link:acceptance/RUN-SHEET.adoc[the acceptance run sheet]; the page it is
 observed against is `tests/acceptance/fixture/index.html`, which plants one hazard
 per criterion and fetches nothing. Which requirements are proven and which are
 only asserted is recorded in link:../proposals/NEXT-WORK.adoc[NEXT-WORK].
